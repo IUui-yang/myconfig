@@ -1,6 +1,6 @@
 server:
   port: 9090
 com:
-  name: zs
+  name: lisi
 image:
   server: http://localhost:image.peng
